@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GuessNext/static/css/main.8d98bade.css",
+    "main.js": "/GuessNext/static/js/main.998fa03d.js",
+    "index.html": "/GuessNext/index.html",
+    "main.8d98bade.css.map": "/GuessNext/static/css/main.8d98bade.css.map",
+    "main.998fa03d.js.map": "/GuessNext/static/js/main.998fa03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d98bade.css",
+    "static/js/main.998fa03d.js"
+  ]
+}
